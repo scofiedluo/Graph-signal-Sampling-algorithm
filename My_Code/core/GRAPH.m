@@ -1,0 +1,1 @@
+[G1,G2,G3,f1,f2,f3,nodes_num1,nodes_num2,nodes_num3] = design_graph(50);
